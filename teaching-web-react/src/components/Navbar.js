@@ -50,7 +50,6 @@ function Navbar() {
               Registrate
             </Link>
           </li>
-          
         </ul>
       </div>
     </nav>
